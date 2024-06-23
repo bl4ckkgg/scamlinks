@@ -1,2 +1,2 @@
 # scamlinks
-This repository contains 898577 scam links.
+This repository contains 770.735 scam links.
